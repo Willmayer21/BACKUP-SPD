@@ -1,24 +1,13 @@
-# README
+# READMe
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+the app this working
+- load it in browser
+- past spotify playlist ID
+- click on prepare pl
+- blue line appears top of window
+- track appear when dowload
+- download button apear
+- browser download
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+--> track download in public/download
+        are track removed?
